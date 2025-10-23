@@ -1,200 +1,215 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Théophile Sanchez",
+    "label": "Postdoctoral Researcher in machine learning applied to genomics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "theophile.sanchez@gmail.com",
+    "phone": "",
+    "url": "https://orcid.org/0000-0001-8571-0578",
+    "summary": "Postdoctoral researcher specializing in machine learning applied to genomics, with expertise in deep learning applications for population genetics and environmental DNA (eDNA) analysis. Experienced in research, teaching, mentoring, and open-source software development.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Zurich",
+      "countryCode": "CH",
+      "region": "Zurich"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "ORCID",
+        "username": "0000-0001-8571-0578",
+        "url": "https://orcid.org/0000-0001-8571-0578"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "ETH Zurich, Environmental Physics Group",
+      "position": "Postdoctoral Researcher / Data Manager (AtlantECO project)",
+      "url": "https://usys.ethz.ch/",
+      "startDate": "2025-03-01",
+      "endDate": "2025-07-01",
+      "summary": "Data manager for the AtlantECO project under the supervision of Meike Vogt, focusing on environmental data management and analysis.",
+      "highlights": ["AtlantECO Project", "Environmental Data Management"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "ETH Zurich & WSL, Ecosystems and Landscape Evolution Group",
+      "position": "Postdoctoral Researcher",
+      "url": "https://wsl.ch/",
+      "startDate": "2022-09-01",
+      "endDate": "2024-12-31",
+      "summary": "Postdoctoral work on the DNAi project, applying artificial intelligence to environmental DNA for ecosystem monitoring.",
+      "highlights": ["DNAi Project", "eDNA Analysis", "Machine Learning for Ecology"]
+    },
+    {
+      "name": "Paris-Saclay University / LISN / TAU Group",
+      "position": "PhD Researcher",
+      "url": "https://www.universite-paris-saclay.fr/",
+      "startDate": "2017",
+      "endDate": "2022",
+      "summary": "Doctoral research on deep learning for population genetics under the supervision of Guillaume Charpiat and Flora Jay.",
+      "highlights": ["Deep Learning for Population Genetics", "AI in Evolutionary Biology"]
+    },
+    {
+      "name": "Polytech & Paris-Saclay University",
+      "position": "ATER (Teaching and Research Associate)",
+      "url": "https://www.universite-paris-saclay.fr/",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Taught Computer Science and Bioinformatics courses as part of a non-tenured teaching and research appointment.",
+      "highlights": ["Teaching in Bioinformatics", "Teaching in Computer Science"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Paris-Saclay University",
+      "location": "Paris, France",
+      "url": "https://www.universite-paris-saclay.fr/",
+      "area": "Machine Learning and Population Genetics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "startDate": "2017",
+      "endDate": "2022",
+      "score": "",
+      "courses": ["Deep Learning for Population Genetics"]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "Claude Bernard University Lyon 1",
+      "location": "Lyon, France",
+      "area": "Artificial Intelligence",
+      "studyType": "MSc",
+      "startDate": "2016",
+      "endDate": "2017",
+      "score": "",
+      "courses": []
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "institution": "INSA Lyon (National Institute of Applied Science)",
+      "location": "Lyon, France",
+      "area": "Bioinformatics and Modeling",
+      "studyType": "MSc",
+      "startDate": "2014",
+      "endDate": "2017",
+      "score": "",
+      "courses": []
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Claude Bernard University Lyon 1",
+      "location": "Lyon, France",
+      "area": "Modeling and Computer Science for Biology",
+      "studyType": "BSc",
+      "startDate": "2012",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "ORDNA: deep-learning-based ordination for raw environmental DNA samples",
+      "publisher": "Methods in Ecology and Evolution",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1111/2041-210x.14430",
+      "summary": "Developed deep-learning-based ordination methods for analyzing eDNA samples."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "dnadna: a deep learning framework for population genetics inference",
+      "publisher": "Bioinformatics",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1093/bioinformatics/btac765",
+      "summary": "Introduced DNADNA, a framework for deep learning applications in population genetics."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Deep learning for population size history inference",
+      "publisher": "Molecular Ecology Resources",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1111/1755-0998.13224",
+      "summary": "Deep learning models for population size inference combined with ABC approaches."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Doc Muncher",
+      "summary": "Retrieval-Augmented Generation pipeline to analyze scientific papers and their metadata.",
+      "highlights": ["Scientific Data Analysis", "RAG for Research Papers"],
+      "startDate": "2025",
+      "url": "https://gitlab.ethz.ch/tsanche/doc-muncher"
+    },
+    {
+      "name": "eDNA MinION pipeline",
+      "summary": "Reproducible, parallelized pipeline for processing eDNA Nanopore sequencing data.",
+      "highlights": ["Nanopore Sequencing", "eDNA Data Processing"],
+      "startDate": "2024",
+      "url": "https://gitlab.ethz.ch/ele-public/edna-minion"
+    },
+    {
+      "name": "DNADNA Python Package",
+      "summary": "Python library enabling deep statistical learning in population genetics.",
+      "highlights": ["Population Genetics", "Deep Learning Framework"],
+      "startDate": "2022",
+      "url": "https://mlgenetics.gitlab.io/dnadna"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Expert",
+      "keywords": ["Python", "R", "Shell", "SQL", "C", "C++", "LaTeX", "Docker", "Slurm", "GIT", "CI/CD"]
+    },
+    {
+      "name": "Technical Support & HPC",
+      "level": "Advanced",
+      "keywords": ["Server Administration", "Parallelization", "Cluster Computing", "Docker Image Development"]
+    },
+    {
+      "name": "Machine Learning for Ecology",
+      "level": "Advanced",
+      "keywords": ["Deep Learning", "eDNA Analysis", "Biodiversity Modeling"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Fête de la Science",
+      "location": "France",
+      "position": "Science Communicator",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Participated in outreach events promoting science education."
+    },
+    {
+      "organization": "La Rêverie Association",
+      "location": "France",
+      "position": "Volunteer Teacher",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "Taught mathematics and French language to high schoolers and refugees."
+    }
+  ],
+  "references": [
+    {
+      "name": "Prof. Dr. Loïc Pellissier",
+      "reference": "WSL and ETH Zurich — loic.pellissier@usys.ethz.ch"
+    },
+    {
+      "name": "Dr. Camille Albouy",
+      "reference": "WSL and ETH Zurich — camille.albouy@usys.ethz.ch"
+    },
+    {
+      "name": "Dr. Guillaume Charpiat",
+      "reference": "INRIA and LISN — guillaume.charpiat@inria.fr"
+    },
+    {
+      "name": "Dr. Flora Jay",
+      "reference": "CNRS and LISN — flora.jay@lisn.fr"
     }
   ]
 }
