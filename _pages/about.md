@@ -29,6 +29,7 @@ I'm a postdoctoral researcher passionate about the intersection of computer scie
 Over the years, collaborating with different research groups has also sparked my curiosity about many other topics from human population history and species conservation to marine biology and new sequencing technologies. I enjoy diving into new fields and connecting ideas across disciplines.
 
 ## Background
+
 I hold a MSc in Bioinformatics from the <em>Institut National des Sciences Appliquées</em> (INSA Lyon) and a MSc in Artificial Intelligence from the <em>Université Claude-Bernard Lyon 1</em>. I completed my PhD in deep learning applied to population genetics as part of the TAU team at the <em>Laboratoire Interdisciplinaire des Sciences du Numérique</em>, near Paris.
 
 During my doctoral studies, I was also a part-time lecturer at <em>Université Paris-Saclay</em>, where I taught machine learning, computer science and bioinformatics.
