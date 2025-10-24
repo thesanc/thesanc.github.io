@@ -6,7 +6,7 @@ subtitle: Postdoctoral researcher in machine learning applied to genomics
 
 profile:
   align: right
-  image: avatar.png
+  image: profile.png
   image_circular: true # crops the image to make it circular
   more_info:
 
