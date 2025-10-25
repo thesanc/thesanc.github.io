@@ -24,16 +24,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a postdoctoral researcher passionate about the intersection of computer science and biology. My work focuses on developing methods that combine deep learning and evolutionary models to analyze genomic data. I design and apply artificial neural networks to address complex questions in population genetics and ecology.
+I'm a postdoctoral researcher passionate about the intersection of **computer science** and **biology**. My work focuses on developing methods that combine deep learning and evolutionary models to analyze genomic data. I design and apply artificial neural networks to address complex questions in population genetics and ecology.
 
 Over the years, collaborating with different research groups has also sparked my curiosity about many other topics from human population history and species conservation to marine biology and new sequencing technologies. I enjoy diving into new fields and connecting ideas across disciplines.
 
 ## Background
 
-I hold a MSc in Bioinformatics from the <em>Institut National des Sciences Appliquées</em> (INSA Lyon) and a MSc in Artificial Intelligence from the <em>Université Claude-Bernard Lyon 1</em>. I completed my PhD in deep learning applied to population genetics as part of the TAU team at the <em>Laboratoire Interdisciplinaire des Sciences du Numérique</em>, near Paris.
+I hold a MSc in Bioinformatics from the <em>Institut National des Sciences Appliquées</em> (INSA Lyon) and a MSc in artificial intelligence from the <em>Université Claude Bernard Lyon 1</em>. I completed my PhD in deep learning applied to population genetics as part of the [Bioinfo](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/bioinfo-2/) and [TAU](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/apprentissage-et-optimisation-2/) teams at the <em>Laboratoire Interdisciplinaire des Sciences du Numérique</em>, near Paris.
 
 During my doctoral studies, I was also a part-time lecturer at <em>Université Paris-Saclay</em>, where I taught machine learning, computer science and bioinformatics.
 
-After my PhD, I moved to Zurich for a two-year postdoctoral position at WSL and ETH, working in the Ecosystems and Landscape Evolution group on deep learning applications for environmental DNA (eDNA).
+After my PhD, I moved to Zurich for a two-year postdoctoral position at WSL and ETH, working in the [Ecosystems and Landscape Evolution](https://ele.ethz.ch/) group on deep learning applications for environmental DNA (eDNA).
 
-I then joined the Environmental Physics group, where I currently work managing large-scale datasets for the AtlantECO project.
+I then joined the [Environmental Physics](https://up.ethz.ch/) group, where I currently work managing large-scale datasets for the [AtlantECO](https://www.atlanteco.eu/) project.
