@@ -30,10 +30,12 @@ Over the years, collaborating with different research groups has also sparked my
 
 ## Background
 
-I hold a MSc in Bioinformatics from the <em>Institut National des Sciences Appliquées</em> (INSA Lyon) and a MSc in artificial intelligence from the <em>Université Claude Bernard Lyon 1</em>. I completed my PhD in deep learning applied to population genetics as part of the [Bioinfo](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/bioinfo-2/) and [TAU](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/apprentissage-et-optimisation-2/) teams at the <em>Laboratoire Interdisciplinaire des Sciences du Numérique</em>, near Paris.
+I hold an MSc in Bioinformatics from the <em>Institut National des Sciences Appliquées</em> (INSA Lyon) and an MSc in Artificial Intelligence from the <em>Université Claude Bernard Lyon 1</em>. I completed my PhD in deep learning applied to population genetics within the [Bioinfo](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/bioinfo-2/) and [TAU](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/apprentissage-et-optimisation-2/) teams at the <em>Laboratoire Interdisciplinaire des Sciences du Numérique</em> (LISN), near Paris.
 
-During my doctoral studies, I was also a part-time lecturer at <em>Université Paris-Saclay</em>, where I taught machine learning, computer science and bioinformatics.
+Alongside my doctoral research, I was also as a part-time lecturer at <em>Université Paris-Saclay</em>, where I taught courses in machine learning, computer science, and bioinformatics.
 
-After my PhD, I moved to Zurich for a two-year postdoctoral position at WSL and ETH, working in the [Ecosystems and Landscape Evolution](https://ele.ethz.ch/) group on deep learning applications for environmental DNA (eDNA).
+In 2022, I moved to Zurich for a two-year postdoctoral position at WSL and ETH Zürich, working in the [Ecosystems and Landscape Evolution](https://ele.ethz.ch/) group on deep learning applications for environmental DNA (eDNA).
 
-I then joined the [Environmental Physics](https://up.ethz.ch/) group, where I currently work managing large-scale datasets for the [AtlantECO](https://www.atlanteco.eu/) project.
+In 2025, I joined the [Environmental Physics](https://up.ethz.ch/) group at ETH Zürich, where I managed large-scale marine datasets for the [AtlantECO](https://www.atlanteco.eu/) project.
+
+I am currently a researcher at the [Laboratory of Evolutionary Genetics](https://pathogen-genomics.org/) at the University of Neuchâtel, where I leverage genomic language models to better understand evolutionary processes and identify unexpected or novel genomic variations.
