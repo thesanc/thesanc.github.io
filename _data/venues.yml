@@ -1,0 +1,27 @@
+"Mol. Ecol.":
+  url: https://onlinelibrary.wiley.com/journal/1365294x
+  color: "#1b9e77"
+
+"Mol. Ecol. Resour.":
+  url: https://onlinelibrary.wiley.com/journal/17550998
+  color: "#66c2a4"
+
+"arxiv":
+  url: https://arxiv.org/
+  color: "#7f8c8d"
+
+"Methods Ecol. Evol.":
+  url: https://besjournals.onlinelibrary.wiley.com/journal/2041210x
+  color: "#66a61e"
+
+"Ecol. Evol.":
+  url: https://onlinelibrary.wiley.com/journal/20457758
+  color: "#4daf4a"
+
+"PLoS Comput. Biol.":
+  url: https://journals.plos.org/ploscompbiol/
+  color: "#7570b3"
+
+"Bioinformatics":
+  url: https://academic.oup.com/bioinformatics
+  color: "#377eb8"
