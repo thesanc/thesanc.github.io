@@ -38,4 +38,4 @@ In 2022, I moved to Zurich for a two-year postdoctoral position at WSL and ETH Z
 
 In 2025, I joined the [Environmental Physics](https://up.ethz.ch/) group at ETH Zürich, where I managed large-scale marine datasets for the [AtlantECO](https://www.atlanteco.eu/) project.
 
-I am currently a researcher at the [Laboratory of Evolutionary Genetics](https://pathogen-genomics.org/) at the University of Neuchâtel, where I leverage genomic language models to better understand evolutionary processes and identify unexpected or novel genomic variations.
+I am currently part of the [Laboratory of Evolutionary Genetics](https://pathogen-genomics.org/) at the University of Neuchâtel, where I leverage genomic language models to better understand evolutionary processes and identify unexpected or novel genomic variations.
